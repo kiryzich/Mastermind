@@ -6,4 +6,5 @@ import javax.persistence.Entity;
 public class Opleidingen {
 // hier komen de opleidingen van onze geweldige studenten
 	String opleidingen = "";
+	//test
 }
